@@ -1,6 +1,4 @@
 # Automated-Building-Management-System
-Here’s a summarized and polished version of your report turned into a professional and informative GitHub `README.md` file:
-
 ---
 
 # Smart HVAC & Security Control System
